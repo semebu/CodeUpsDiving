@@ -56,8 +56,14 @@
   position: absolute;
   bottom: rem(-69);
   right: rem(21);
-  width: rem(231);
-  // height: 100%;
+  width: rem(71);
+  height: rem(162);//とりあえず
+  background-image: url("../images/common/deco_seahorse.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 100;
+  // background-color: red; // 一時的に確認
   }
 }
 
